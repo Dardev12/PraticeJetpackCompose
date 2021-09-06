@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="MainColorLight">#FFFE6E93</color>
+    <color name="FocusElementColorL">#FFD9CB9E</color>
+
+    <color name="MainColorNight">#FF666F6A</color>
+    <color name="FocusElementColorN">#FFF5C733</color>
+
+    <color name="MaleColor">#FF69FBEC</color>
+    <color name="GirlColor">#FFFF63E5</color>
+
+    <color name="UiColorNight">#FF000000</color>
+    <color name="UiColorLight">#FFFFFFFF</color>
+</resources>
